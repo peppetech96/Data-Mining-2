@@ -1,4 +1,4 @@
-# DataMining2
+# Data-Mining-2
 **Progetto svolto in collaborazione con Alessandro Vavalà e Giuseppe Milazzo**
 
 Data Mining: Advanced Topics and Applications
